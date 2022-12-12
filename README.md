@@ -90,8 +90,6 @@ Example command:
 
 ### Live view of my project-- https://fithamlak.github.io/
 
-You can deploy this project using:
-
 <!--
 Example:
 
