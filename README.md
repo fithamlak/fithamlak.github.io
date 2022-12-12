@@ -88,7 +88,7 @@ Example command:
 ```
 --->
 
-### Deployment
+### Live view of my project-- https://fithamlak.github.io/
 
 You can deploy this project using:
 
@@ -108,9 +108,13 @@ Example:
 
 > Mention all of the collaborators of this project.
 
+
+
 👤 **Author1**
 
 - GitHub: [@fithamlak](https://github.com/fithamlak)
 - Twitter: [@FithamlakF](https://twitter.com/Fithamlak)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/fithamlak-fikrie-942169225)
+
+
 
