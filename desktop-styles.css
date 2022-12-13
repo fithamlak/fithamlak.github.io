@@ -50,6 +50,7 @@ header {
   align-items: center;
   width: 259px;
   height: 40px;
+  text-decoration: none;
 }
 
 .menu-bar {
@@ -63,6 +64,10 @@ header {
   font-weight: 500;
   font-size: 15px;
   color: #344563;
+}
+
+.mebu-bar a {
+  text-decoration: none;
 }
 
 #headline-container {
