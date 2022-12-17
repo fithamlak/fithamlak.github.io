@@ -43,7 +43,7 @@ in attractive and evidence full way. this project is the part of my future full 
 .Contact form
 
 
-#Getting Started
+### Getting Started <a name="getting-started"></a>
 To get a local copy up and running, follow these steps.
   cd my-folder
   git clone git@github.com:fithamlak/portfolio.git
@@ -60,10 +60,7 @@ Clone this repository to your desired folder:
 
 Example commands:
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
+
 
 
 ### Install
