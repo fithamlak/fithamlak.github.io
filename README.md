@@ -46,7 +46,7 @@ in attractive and evidence full way. this project is the part of my future full 
 #Getting Started
 To get a local copy up and running, follow these steps.
   cd my-folder
-  git clone git@github.com:dennis-every/portfolio.git
+  git clone git@github.com:fithamlak/portfolio.git
   
 Prerequisites
 In order to run the tests for this project you need:
