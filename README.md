@@ -76,9 +76,9 @@ Open index.html in your preferred browser.
 
 To run tests, run the following command:
 
-  npm install
+    npm install
 
-  npx hint .
+    npx hint .
   
     npx stylelint "**/*.{css,scss}"
 
