@@ -31,34 +31,36 @@ in attractive and evidence full way. this project is the part of my future full 
 ## 🛠 Built With <a name="built-with"></a>
   html, css specially with flex box concept
 ### Tech Stack <a name="tech-stack"></a>
-
-.html
-.css
+- HTML
+- CSS
 
 
 
 ### Key Features <a name="key-features"></a>
 
-.Responsive pages
-.Contact form
-
+- **Responsive pages**
+- **Contact form**
 
 ### Getting Started <a name="getting-started"></a>
-To get a local copy up and running, follow these steps.
+```sh
   cd my-folder
   git clone git@github.com:fithamlak/portfolio.git
+```
   
-Prerequisites
+### Prerequisites
 In order to run the tests for this project you need:
 
-Example command:
+Example command
+```sh
  npm install
+```
 
 ### Setup
 
-Clone this repository to your desired folder:
-
-Example commands:
+```sh
+  cd my-folder
+  git clone git@github.com:fithamlak/portfolio.git
+```
 
 
 
@@ -76,13 +78,19 @@ Open index.html in your preferred browser.
 
 To run tests, run the following command:
 
-    npm install
+```sh
+  npm install
+```
 
-    npx hint .
+```sh
+  npx hint .
+```
   
-    npx stylelint "**/*.{css,scss}"
+```sh
+  npx stylelint "**/*.{css,scss}"
+```
 
-### Live view of my project-- https://fithamlak.github.io/
+### Live view of my project https://fithamlak.github.io/
 
 
 ## 👥 Authors <a name="authors"></a>
@@ -97,5 +105,50 @@ To run tests, run the following command:
 - Twitter: [@FithamlakF](https://twitter.com/Fithamlak)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/fithamlak-fikrie-942169225)
 
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+Please star this project if you like this project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse and it's community of Micronauts for the opportunity to collobarate, help, support, and valuable feedback through code reviews and pair programming.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ <a name="faq"></a>
+
+- **Can I re-use your code?**
+
+  - Sure, no problem!
+
+- **How can I see the project?**
+
+  - Just clone the repository as expained in the setup section, and open the index.html file in your preferred browser.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./MIT.md) licensed
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
