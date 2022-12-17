@@ -32,75 +32,61 @@ in attractive and evidence full way. this project is the part of my future full 
   html, css specially with flex box concept
 ### Tech Stack <a name="tech-stack"></a>
 
-> I used mainly flex box concept to style my project
+.html
+.css
+
 
 
 ### Key Features <a name="key-features"></a>
 
--it contains my experience in development
--links to  demo of my projects
+.Responsive pages
+.Contact form
 
 
+#Getting Started
+To get a local copy up and running, follow these steps.
+  cd my-folder
+  git clone git@github.com:dennis-every/portfolio.git
+  
+Prerequisites
+In order to run the tests for this project you need:
 
+Example command:
+ npm install
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
 Example commands:
 
 ```sh
   cd my-folder
   git clone git@github.com:myaccount/my-project.git
 ```
---->
+
 
 ### Install
 
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  npm install
-```
---->
+n/a
 
 ### Usage
 
-To run the project, execute the following command:
-
-
+Open index.html in your preferred browser.
 
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
+  npm install
 
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+  npx hint .
+  
+    npx stylelint "**/*.{css,scss}"
 
 ### Live view of my project-- https://fithamlak.github.io/
 
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
