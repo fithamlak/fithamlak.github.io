@@ -92,6 +92,8 @@ To run tests, run the following command:
 
 ### Live view of my project https://fithamlak.github.io/
 
+ here is the Loom walkthrough of the project https://www.loom.com/share/fc0e5191009b44e9bd8299b642107569
+
 
 ## 👥 Authors <a name="authors"></a>
 
