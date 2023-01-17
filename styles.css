@@ -217,6 +217,7 @@ header {
 
 .content-container > p {
   margin: 0;
+  margin-right: 3px;
   padding: 0;
   padding-left: 3px;
   font-size: 15px;
