@@ -143,6 +143,7 @@ header {
 .image-container {
   width: 327px;
   height: auto;
+  margin-left: 0;
 }
 
 .image-container > img {
@@ -159,7 +160,7 @@ header {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  margin-left: 20px;
+  margin-left: 0px;
 }
 
 .content-container > h2 {
